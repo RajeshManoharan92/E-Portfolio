@@ -29,7 +29,7 @@ export default function App() {
             <Container>
               <Navbar.Toggle aria-controls="responsive-navbar-nav" />
               <Navbar.Collapse id="responsive-navbar-nav">
-                <Nav className="me-auto">
+                <Nav className="me-auto">s
                 </Nav>
                 <Nav>
                   <Navbar.Brand></Navbar.Brand>
@@ -37,7 +37,7 @@ export default function App() {
                   <Nav.Link className='navlink' onClick={() => toggle()} as={Link} to="/projects">Projects</Nav.Link> &nbsp;&nbsp;&nbsp;&nbsp;
                   <Nav.Link className='navlink' onClick={() => toggle()} as={Link} to="/skills">Skills</Nav.Link> &nbsp;&nbsp;&nbsp;&nbsp;
                   <Nav.Link className='navlink' onClick={() => toggle()} as={Link} to="/contact">Contact</Nav.Link> &nbsp;&nbsp;&nbsp;&nbsp;
-                  <Nav.Link className='navlinkaresume' href="https://drive.google.com/file/d/17uFXcMCogfIhzKHsWlYqunV7aEd3HODQ/view?usp=sharing" target="_blank" >Resume</Nav.Link>
+                  <Nav.Link className='navlinkaresume' href="https://drive.google.com/file/d/1btazTkcrctMPXwzYTVoMrcsp6rgWpBQu/view?usp=sharing" target="_blank" >Resume</Nav.Link>
                 </Nav>
               </Navbar.Collapse>
             </Container>

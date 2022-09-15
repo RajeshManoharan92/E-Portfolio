@@ -95,7 +95,7 @@ export function Projects() {
                                         placement="bottom"
                                         overlay={netlify1}
                                     >
-                                        <a href="https://6318f1d88738d31ffd53248f--blogapp-rajeshm.netlify.app " target='_blank'>
+                                        <a href="https://632372dcb3636f195411cfdd--blog-app-rajesh-m.netlify.app/ " target='_blank'>
                                             <img className="fbimg1" src="netlifylogo1.png"></img></a>
                                     </OverlayTrigger>  &nbsp; &nbsp; &nbsp;
 
@@ -155,7 +155,7 @@ export function Projects() {
 
                                         overlay={netlify1}
                                     >
-                                        <a href="https://rajesh-m--quiz-app-rajesh.netlify.app/" target='_blank'>
+                                        <a href="https://63235b08809df30623232097--quiz-rajesh.netlify.app/" target='_blank'>
                                             <img className="fbimg1" src="netlifylogo1.png"></img></a>
                                     </OverlayTrigger> &nbsp; &nbsp; &nbsp;
 
@@ -208,7 +208,7 @@ export function Projects() {
                                         placement="bottom"
                                         overlay={netlify1}
                                     >
-                                        <a href="https://63220841184cd52a50493a21--react-markdown-rajesh-m.netlify.app" target='_blank'>
+                                        <a href="https://63234f0a5630ef748ab210b4--react-md-rajesh-m.netlify.app/ " target='_blank'>
                                             <img className="fbimg1" src="netlifylogo1.png"></img></a>
                                     </OverlayTrigger> &nbsp; &nbsp; &nbsp;
 
@@ -253,7 +253,7 @@ export function Projects() {
                                         placement="bottom"
                                         overlay={netlify1}
                                     >
-                                        <a href="https://6321647da4b3521ad3767863--product-rental-app.netlify.app/ " target='_blank'>
+                                        <a href="https://6323809a7d6cc129c534ea87--product-rental-rajesh-m.netlify.app/ " target='_blank'>
                                             <img className="fbimg1" src="netlifylogo1.png"></img></a>
                                     </OverlayTrigger> &nbsp; &nbsp; &nbsp;
 
