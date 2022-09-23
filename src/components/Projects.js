@@ -237,7 +237,7 @@ export function Projects() {
                                         placement="bottom"
                                         overlay={github1f}
                                     >
-                                        <a href="https://github.com/RajeshManoharan92/Product-Rental-App/tree/main/Front-End" target='_blank'>
+                                        <a href="https://github.com/RajeshManoharan92/React-Markdown-Viewer-Editor-App/tree/main/Front-End" target='_blank'>
                                             <img className="fbimg1" src="github-brands.png"></img></a>
                                     </OverlayTrigger> &nbsp; &nbsp; &nbsp;
 
@@ -245,7 +245,7 @@ export function Projects() {
                                         placement="bottom"
                                         overlay={github1b}
                                     >
-                                        <a href="https://github.com/RajeshManoharan92/Product-Rental-App/tree/main/Back-End" target='_blank'>
+                                        <a href="https://github.com/RajeshManoharan92/React-Markdown-Viewer-Editor-App/tree/main/Back-End" target='_blank'>
                                             <img className="fbimg1" src="github-brands.png"></img></a>
                                     </OverlayTrigger> &nbsp; &nbsp; &nbsp;
 
@@ -253,7 +253,7 @@ export function Projects() {
                                         placement="bottom"
                                         overlay={netlify1}
                                     >
-                                        <a href="https://6323809a7d6cc129c534ea87--product-rental-rajesh-m.netlify.app/ " target='_blank'>
+                                        <a href="https://products-rental.netlify.app/ " target='_blank'>
                                             <img className="fbimg1" src="netlifylogo1.png"></img></a>
                                     </OverlayTrigger> &nbsp; &nbsp; &nbsp;
 
