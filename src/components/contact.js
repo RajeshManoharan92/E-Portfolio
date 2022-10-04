@@ -43,7 +43,7 @@ export function Contact() {
                                         <Card  >
                                             <Card.Body>
                                                 <Card.Title ><img src="gmail.png" class="skillimage1"   ></img> 
-                                                &nbsp; <span>m.rajeshmanohar@gmail.com</span>
+                                                 <span>m.rajeshmanohar@gmail.com</span>
                                                 </Card.Title>
 
                                             </Card.Body>
@@ -69,39 +69,6 @@ export function Contact() {
 
                                 </div> <br></br>
 
-
-                                <div class="row skillimgrowht    ">
-                                    <div class=" col-lg-6 col-md-6 col-sm-12 mt-2 mt-lg-0 mt-md-0 mt-sm-2 text-start align-self-center mx-auto"  >
-                                    <a className="a" href="https://github.com/RajeshManoharan92" target="_blank">
-                                        <Card  >
-                                            <Card.Body>
-                                                <Card.Title ><img src="github-brands.png" class="skillimage1"   ></img> &nbsp;&nbsp; / &nbsp; RajeshManoharan92
-                                                
-                                                </Card.Title>
-
-                                            </Card.Body>
-                                        </Card> </a>
-
-                                    </div>
-
-                                </div> <br></br>
-
-
-                                <div class="row skillimgrowht    ">
-                                    <div class=" col-lg-6 col-md-6 col-sm-12 mt-2 mt-lg-0 mt-md-0 mt-sm-2 text-start align-self-center mx-auto"  >
-                                    <a className="a" href="https://www.linkedin.com/in/rajesh-m-66bb8324b/" target="_blank">
-                                        <Card  >
-                                            <Card.Body>
-                                                <Card.Title ><img src="linkedin.png" class="skillimage1"   ></img> &nbsp;&nbsp; / &nbsp; rajesh-m-66bb8324b  
-                                                
-                                                </Card.Title>
-
-                                            </Card.Body>
-                                        </Card> </a>
-
-                                    </div>
-
-                                </div> <br></br>
 
                                 </div>
                             </div>

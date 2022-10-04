@@ -97,8 +97,8 @@ export function Skills() {
 
                                 <div class="row mt-3 skillimgrowht justify-content-center">
                                     <div class="col-4 col-lg-2 col-md-4 col-sm-4" >
-                                        <img src="firebase.png" class="skillimage" style={{ backgroundColor: "white", borderRadius: "20%" }} ></img>
-                                        <p className="skillimagetext">firebase</p>
+                                        <img src="npm.jpeg" class="skillimage" style={{ backgroundColor: "white", borderRadius: "20%" }} ></img>
+                                        <p className="skillimagetext">NPM</p>
                                     </div>
                                     <div class="col-4 col-lg-2 col-md-4 col-sm-4" >
                                         <img src="netlifylogo1.png" class="skillimage"  ></img>

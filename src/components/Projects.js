@@ -74,23 +74,7 @@ export function Projects() {
                                         User can create their own blog and they can view others blogs like Facebook and Instagram.
                                     </Card.Subtitle >
 
-                                    <OverlayTrigger
-                                        placement="bottom"
-                                        overlay={github1f}
-                                    >
-                                        <a href="https://github.com/RajeshManoharan92/Blog-App/tree/main/Front-End" target='_blank'>
-                                            <img className="fbimg1" src="github-brands.png"></img></a>
-                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
-                                    <OverlayTrigger
-                                        placement="bottom"
-                                        overlay={github1b}
-                                    >
-                                        <a href="https://github.com/RajeshManoharan92/Blog-App/tree/main/Back-End" target='_blank'>
-                                            <img className="fbimg1" src="github-brands.png"></img></a>
-                                    </OverlayTrigger>  &nbsp; &nbsp; &nbsp;
-
-
+            
                                     <OverlayTrigger
                                         placement="bottom"
                                         overlay={netlify1}
@@ -131,25 +115,7 @@ export function Projects() {
                                         Admin can create questions and let user to answer the questions on timer basis (30 sec), user can check their result once quiz ends.
                                     </Card.Subtitle>
 
-                                    <OverlayTrigger
-                                        placement="bottom"
-
-                                        overlay={github1f}
-                                    >
-                                        <a href="https://github.com/RajeshManoharan92/Quiz-App/tree/main/Front-End" target='_blank'>
-                                            <img className="fbimg1" src="github-brands.png"></img></a>
-                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
-                                    <OverlayTrigger
-                                        placement="bottom"
-
-                                        overlay={github1b}
-                                    >
-                                        <a href="https://github.com/RajeshManoharan92/Quiz-App/tree/main/Back-End" target='_blank'>
-                                            <img className="fbimg1" src="github-brands.png"></img></a>
-                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
-
+                                    
                                     <OverlayTrigger
                                         placement="bottom"
 
@@ -188,22 +154,7 @@ export function Projects() {
                                         User can enter Markdown text in editor & View their live output simultaneously in viewer to check whether their text is correct.
                                     </Card.Subtitle>
 
-                                    <OverlayTrigger
-                                        placement="bottom"
-                                        overlay={github1f}
-                                    >
-                                        <a href="https://github.com/RajeshManoharan92/React-Markdown-Viewer-Editor-App/tree/main/Front-End" target='_blank'>
-                                            <img className="fbimg1" src="github-brands.png"></img></a>
-                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
-                                    <OverlayTrigger
-                                        placement="bottom"
-                                        overlay={github1b}
-                                    >
-                                        <a href="https://github.com/RajeshManoharan92/React-Markdown-Viewer-Editor-App/tree/main/Back-End" target='_blank'>
-                                            <img className="fbimg1" src="github-brands.png"></img></a>
-                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
+                                
                                     <OverlayTrigger
                                         placement="bottom"
                                         overlay={netlify1}
@@ -233,23 +184,8 @@ export function Projects() {
                                         Customer can book a product for rental in hour basis and payment done through Razor pay gateway.
                                     </Card.Subtitle>
 
-                                    <OverlayTrigger
-                                        placement="bottom"
-                                        overlay={github1f}
-                                    >
-                                        <a href="https://github.com/RajeshManoharan92/React-Markdown-Viewer-Editor-App/tree/main/Front-End" target='_blank'>
-                                            <img className="fbimg1" src="github-brands.png"></img></a>
-                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
-                                    <OverlayTrigger
-                                        placement="bottom"
-                                        overlay={github1b}
-                                    >
-                                        <a href="https://github.com/RajeshManoharan92/React-Markdown-Viewer-Editor-App/tree/main/Back-End" target='_blank'>
-                                            <img className="fbimg1" src="github-brands.png"></img></a>
-                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
-                                    <OverlayTrigger
+                               
+                                 <OverlayTrigger
                                         placement="bottom"
                                         overlay={netlify1}
                                     >

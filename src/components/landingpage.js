@@ -56,7 +56,7 @@ export function Landingpage() {
                                             loop: true,
                                             delay: 100,
                                             strings: [
-                                                " Full Stack Developer"
+                                                " Front End Developer"
                                             ]
                                         }}
                                     ></Typewriter>
@@ -64,21 +64,13 @@ export function Landingpage() {
                             </div> <br></br>
                             <div class="row fontstyle4">
                                 <div>
-                                    <span style={{ color: "white" }}>  A passionate Full Stack Developer 🚀 having an experience of building
+                                    <span style={{ color: "white" }}>  A passionate Front End Developer 🚀 having an experience of building
                                         responsive Web applications with <span class="fontstyle4" style={{ color: "#e94560" }}>JavaScript
-                                            / Reactjs / Nodejs </span> and some other cool libraries and frameworks.</span>
+                                            / Reactjs / NPM </span> and some other cool libraries and frameworks.</span>
                                 </div>
                             </div>
 
-                            <div class="row mt-4">
-                                <div>
-                                    <a href="https://github.com/RajeshManoharan92" target='_blank'>
-                                        <img className="gitimg" src="github-brands.png"></img></a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-                                    <a href="https://www.linkedin.com/in/rajesh-m-66bb8324b/" target='_blank'>
-                                        <img className="gitimg" src="linke.jpg"></img></a>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
