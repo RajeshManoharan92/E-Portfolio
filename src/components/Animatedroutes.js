@@ -8,6 +8,7 @@ import { Productvideo } from "../components/productvideo"
 import { Quizvideo } from "../components/quizvideo"
 import { Contact } from "../components/contact"
 import { AnimatePresence } from "framer-motion"
+import { Experience } from "../components/Experience"
 
 
 export function AnimatedRoutes() {
@@ -26,6 +27,7 @@ export function AnimatedRoutes() {
                     <Route path="/quizvideo" element={<Quizvideo />} />
                     <Route path="/productvideo" element={<Productvideo />} />
                     <Route path="/contact" element={<Contact />} />
+                    <Route path="/experience" element={<Experience />} />
                 </Routes>
             </AnimatePresence>
         </>

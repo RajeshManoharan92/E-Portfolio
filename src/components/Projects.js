@@ -61,37 +61,29 @@ export function Projects() {
     </Card>
 </div>
 </div>
-
-
                     <div class="row mt-3 justify-content-center" >
                         <div class="col-lg-5 col-md-6 col-sm-12 text-center  mt-4 mt-lg-4 mt-md-4 mt-sm-4 ">
-                            <Card  >
-                                <Card.Img variant="top" src="blog.png" />
+                        <Card  >
+                                <Card.Img variant="top" src="product.png" />
                                 <Card.Body class="mb-3 mt-3">
-                                    <Card.Title>Blog Web App</Card.Title>
+                                    <Card.Title>Product Rental Web App </Card.Title>
                                     <Card.Subtitle className="mb-2 text-muted">MERN Stack</Card.Subtitle>
-                                    <Card.Subtitle className="mb-2 ">
-                                        User can create their own blog and they can view others blogs like Facebook and Instagram.
-                                    </Card.Subtitle >
-
-            
-                                    <OverlayTrigger
+                                                                        <Card.Subtitle className="mb-2">
+                                        Customer can book a product for rental in hour basis and payment done through Razor pay gateway.
+                                    </Card.Subtitle>
+                                 <OverlayTrigger
                                         placement="bottom"
                                         overlay={netlify1}
                                     >
-                                        <a href="https://632372dcb3636f195411cfdd--blog-app-rajesh-m.netlify.app/ " target='_blank'>
+                                        <a href="https://products-rental.netlify.app/ " target='_blank'>
                                             <img className="fbimg1" src="netlifylogo1.png"></img></a>
-                                    </OverlayTrigger>  &nbsp; &nbsp; &nbsp;
-
-
+                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
                                     <OverlayTrigger
                                         placement="bottom"
                                         overlay={video1}
                                     >
-                                        <img className="fbimg1" src="video.jfif" onClick={() => Navigate("/blogvideo")}></img>
-                                    </OverlayTrigger>  &nbsp; &nbsp; &nbsp;
-
-
+                                        <img className="fbimg1" src="video.jfif" onClick={() => Navigate("/productvideo")}></img>
+                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
                                 </Card.Body>
                             </Card>
                         </div>
@@ -99,42 +91,30 @@ export function Projects() {
                             <span></span>
                             <span></span>
                             <span></span>
-
                         </div>
                     
-
-
-                    
                         <div class="col-lg-5 col-md-6 col-sm-12 text-center offset-lg-1  mt-4 mt-lg-4 mt-md-4 mt-sm-4 ">
-                            <Card >
-                                <Card.Img  variant="top" src="quiz.png" />
+                        <Card  >
+                                <Card.Img variant="top" src="blog.png" />
                                 <Card.Body class="mb-3 mt-3">
-                                    <Card.Title>Quiz Web APP</Card.Title>
+                                    <Card.Title>Blog Web App</Card.Title>
                                     <Card.Subtitle className="mb-2 text-muted">MERN Stack</Card.Subtitle>
-                                    <Card.Subtitle className="mb-2">
-                                        Admin can create questions and let user to answer the questions on timer basis (30 sec), user can check their result once quiz ends.
-                                    </Card.Subtitle>
-
-                                    
+                                    <Card.Subtitle className="mb-2 ">
+                                        User can create their own blog and they can view others blogs like Facebook and Instagram.
+                                    </Card.Subtitle >
                                     <OverlayTrigger
                                         placement="bottom"
-
                                         overlay={netlify1}
                                     >
-                                        <a href="https://63235b08809df30623232097--quiz-rajesh.netlify.app/" target='_blank'>
+                                        <a href="https://632372dcb3636f195411cfdd--blog-app-rajesh-m.netlify.app/ " target='_blank'>
                                             <img className="fbimg1" src="netlifylogo1.png"></img></a>
-                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
-
+                                    </OverlayTrigger>  &nbsp; &nbsp; &nbsp;
                                     <OverlayTrigger
                                         placement="bottom"
-
                                         overlay={video1}
                                     >
-                                        <img className="fbimg1" src="video.jfif" onClick={() => Navigate("/quizvideo")}></img>
-                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
-
+                                        <img className="fbimg1" src="video.jfif" onClick={() => Navigate("/blogvideo")}></img>
+                                    </OverlayTrigger>  &nbsp; &nbsp; &nbsp;
                                 </Card.Body>
                             </Card>
                         </div>
@@ -153,8 +133,6 @@ export function Projects() {
                                                                         <Card.Subtitle className="mb-2">
                                         User can enter Markdown text in editor & View their live output simultaneously in viewer to check whether their text is correct.
                                     </Card.Subtitle>
-
-                                
                                     <OverlayTrigger
                                         placement="bottom"
                                         overlay={netlify1}
@@ -162,51 +140,44 @@ export function Projects() {
                                         <a href="https://63234f0a5630ef748ab210b4--react-md-rajesh-m.netlify.app/ " target='_blank'>
                                             <img className="fbimg1" src="netlifylogo1.png"></img></a>
                                     </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
                                     <OverlayTrigger
                                         placement="bottom"
                                         overlay={video1}
                                     >
                                         <img className="fbimg1" src="video.jfif" onClick={() => Navigate("/markdownvideo")}></img>
                                     </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
                                 </Card.Body>
                             </Card>
                         </div>
                   
                         <div class="col-lg-5 col-md-6 col-sm-12 text-center offset-lg-1  mt-4 mt-lg-4 mt-md-4 mt-sm-4 ">
-                            <Card  >
-                                <Card.Img variant="top" src="product.png" />
+                        <Card >
+                                <Card.Img  variant="top" src="quiz.png" />
                                 <Card.Body class="mb-3 mt-3">
-                                    <Card.Title>Product Rental Web App </Card.Title>
+                                    <Card.Title>Quiz Web APP</Card.Title>
                                     <Card.Subtitle className="mb-2 text-muted">MERN Stack</Card.Subtitle>
-                                                                        <Card.Subtitle className="mb-2">
-                                        Customer can book a product for rental in hour basis and payment done through Razor pay gateway.
+                                    <Card.Subtitle className="mb-2">
+                                        Admin can create questions and let user to answer the questions on timer basis (30 sec), user can check their result once quiz ends.
                                     </Card.Subtitle>
-
-                               
-                                 <OverlayTrigger
-                                        placement="bottom"
-                                        overlay={netlify1}
-                                    >
-                                        <a href="https://products-rental.netlify.app/ " target='_blank'>
-                                            <img className="fbimg1" src="netlifylogo1.png"></img></a>
-                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
                                     <OverlayTrigger
                                         placement="bottom"
+
+                                        overlay={netlify1}
+                                    >
+                                        <a href="https://63235b08809df30623232097--quiz-rajesh.netlify.app/" target='_blank'>
+                                            <img className="fbimg1" src="netlifylogo1.png"></img></a>
+                                    </OverlayTrigger> &nbsp; &nbsp; &nbsp;
+                                    <OverlayTrigger
+                                        placement="bottom"
+
                                         overlay={video1}
                                     >
-                                        <img className="fbimg1" src="video.jfif" onClick={() => Navigate("/productvideo")}></img>
+                                        <img className="fbimg1" src="video.jfif" onClick={() => Navigate("/quizvideo")}></img>
                                     </OverlayTrigger> &nbsp; &nbsp; &nbsp;
-
-
                                 </Card.Body>
                             </Card>
                         </div>
                     </div>
-
-
                 </div>
                 <div class="row">
                     <div class="col-12">

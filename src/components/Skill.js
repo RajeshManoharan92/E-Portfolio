@@ -86,8 +86,8 @@ export function Skills() {
                                         <p className="skillimagetext">aws</p>
                                     </div>
                                     <div class="col-4 col-lg-2 col-md-4 col-sm-4" >
-                                        <img src="sql.png" class="skillimage"  ></img>
-                                        <p className="skillimagetext">sql</p>
+                                        <img src="git.png" class="skillimage"  ></img>
+                                        <p className="skillimagetext">GIT</p>
                                     </div>
                                     <div class="col-4 col-lg-2 col-md-4 col-sm-4" >
                                         <img src="postman-icon.webp" class="skillimage" style={{ backgroundColor: "white", borderRadius: "60%" }}  ></img>
