@@ -29,8 +29,13 @@ export function Experience() {
                                 <div class=" col-lg-6 col-md-6 col-sm-12 mt-5 mt-lg-0 mt-md-0 mt-sm-5 text-start align-self-center mx-auto"  >
                                     <Card  >
                                         <Card.Body>
-                                             <Card.Title style={{"color":"blue"}} >React Js. Developer  (Jun 2021 – Till date) </Card.Title >
+                                             <Card.Title style={{"color":"blue"}} >React Js. Developer  (01 Jun 2021 – 30 Jun 2021) </Card.Title >
                                             <h6>Arudhra Innovations.</h6>
+                                            <Card.Text>
+                                            •	Done my internship as React.js developer.
+                                            </Card.Text>
+                                            <Card.Title style={{"color":"blue"}} >React Js. Developer  (Jul 2021 – Till date) </Card.Title >
+                                            <h6>Seyfert Infotech.</h6>
                                             <h6 style={{"color":"darkgreen"}}>Roles & Responsibilities</h6>
                                             <Card.Text>
                                                 •	Developing new user-facing features using React.js <br></br>
