@@ -56,7 +56,7 @@ export function Landingpage() {
                                             loop: true,
                                             delay: 100,
                                             strings: [
-                                                " Front End Developer"
+                                                " Full Stack Developer"
                                             ]
                                         }}
                                     ></Typewriter>
@@ -64,9 +64,9 @@ export function Landingpage() {
                             </div> <br></br>
                             <div class="row fontstyle4">
                                 <div>
-                                    <span style={{ color: "white" }}>  A passionate Front End Developer 🚀 having an experience of building
+                                    <span style={{ color: "white" }}>  A passionate Full stack Developer 🚀 having an experience of building
                                         responsive Web applications with <span class="fontstyle4" style={{ color: "#e94560" }}>JavaScript
-                                            / Reactjs / NPM </span> and some other cool libraries and frameworks.</span>
+                                            / React Js / Node Js / Nest Js / Couch Db / NPM </span> and some other cool libraries and frameworks.</span>
                                 </div>
                             </div>
 
