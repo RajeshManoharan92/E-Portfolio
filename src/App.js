@@ -38,7 +38,7 @@ export default function App() {
                   <Nav.Link className='navlink' onClick={() => toggle()} as={Link} to="/skills">Skills</Nav.Link> &nbsp;&nbsp;&nbsp;&nbsp;
                   <Nav.Link className='navlink' onClick={() => toggle()} as={Link} to="/experience">Experience</Nav.Link> &nbsp;&nbsp;&nbsp;&nbsp;
                   <Nav.Link className='navlink' onClick={() => toggle()} as={Link} to="/contact">Contact</Nav.Link> &nbsp;&nbsp;&nbsp;&nbsp;
-                  <Nav.Link className='navlinkaresume' href="https://drive.google.com/file/d/1bl7_-81L4a_atPmtZImFt2f16A1YwZM7/view?usp=drive_link" target="_blank" >Resume</Nav.Link>                  
+                  <Nav.Link className='navlinkaresume' href="https://drive.google.com/file/d/14rFxlrbS1fLyWln9VOOR84XFK_yTHqQ1/view?usp=drive_link" target="_blank" >Resume</Nav.Link>                  
                 </Nav>
               </Navbar.Collapse>
             </Container>
